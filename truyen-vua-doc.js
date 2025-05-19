@@ -1,3 +1,5 @@
+<script type='text/javascript'>
+//<![CDATA[
 (function () {
   const MAX_ITEMS = 30;
   const ITEMS_PER_PAGE = 3;
@@ -124,3 +126,5 @@
     renderRecentReads();
   });
 })();
+//]]>
+</script>
