@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-//<![CDATA[
 (function () {
   const sheetID_BTV = "17xADXiY5FoXNgLkYajWSf455fKwZWiXf2oZOt-58w80";
   const itemsPerPage = 6;
@@ -125,5 +123,3 @@
   fetchSheet("Full", renderTruyenFull);
   fetchSheet("Hot", renderTruyenHot);
 })();
-//]]>
-</script>
