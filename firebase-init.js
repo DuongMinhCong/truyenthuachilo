@@ -1,14 +1,6 @@
-<!-- Firebase App (core SDK) -->
-<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
-
-<!-- Firebase Analytics -->
-<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-analytics-compat.js"></script>
-
-<!-- Firebase Auth (nếu dùng đăng nhập) -->
-<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-auth-compat.js"></script>
-
-<!-- Firebase Firestore (nếu lưu dữ liệu người dùng, chương đã đọc, v.v.) -->
-<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
 
 <script>
   // Your Firebase configuration
